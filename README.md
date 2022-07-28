@@ -2,6 +2,15 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/t%C3%BAlio-daniel-850672239/"  target="_blank"><i>Túlio Daniel</i></a> 😄</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://app.rocketseat.com.br/me/dan-santini-09820"><i>Rocketseat</i></a> 
 
+  <p>
+    Sou um desenvolvedor front-end que adora escrever códigos e aprender coisas novas.
+Meu primeiro contato com a programação foi em 2020, com Python, mas só em 2021 que
+conheci o Front-End e mi apaixonei pela programação.
+  </p>
+    Estou sempre aberto a aprender coisas novas e colaborar com projetos!
+  <p>
+    
+  </p>
 
 <div align="center">
   <a href="https://github.com/duribeiro">
