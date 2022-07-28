@@ -3,7 +3,7 @@
   <p align="center">Estudo Desenvolvimento Web na <a href="https://app.rocketseat.com.br/me/dan-santini-09820"><i>Rocketseat</i></a> 
 
   <p>
-    Sou um desenvolvedor front-end que adora escrever códigos e aprender coisas novas.
+   Sou um desenvolvedor front-end que adora escrever códigos e aprender coisas novas.
 Meu primeiro contato com a programação foi em 2020, com Python, mas só em 2021 que
 conheci o Front-End e mi apaixonei pela programação.
   </p>
@@ -19,7 +19,7 @@ conheci o Front-End e mi apaixonei pela programação.
   </a>
 </div>
 
-<h2 align="center" style="color: aqua">Técnologias</h2>
+<h2 align="center" style="color: aqua">Técnologias que utilizo:</h2>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -36,4 +36,11 @@ conheci o Front-End e mi apaixonei pela programação.
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+  <p>
+  "o homem que domina a si mesmo é libertado da força que amarra todas as criaturas"
+  </p>
+  <p align="center">
+   - <i>Friedrich Schiller</i>
+  </p>
+  
+
