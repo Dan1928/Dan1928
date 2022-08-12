@@ -12,12 +12,10 @@ conheci o Front-End e mi apaixonei pela programação.
     
   </p>
 
-<div align="center">
-  <a href="https://github.com/Dan1928">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dan1928&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1928&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+<a href="https://github.com/Dan1928" target="_blank">
+  <img height="160em" src="https://camo.githubusercontent.com/edbdd2b36aca0a0abf35780e5da1e7b856e329f603c1fb6bb885645be7b90dad/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d57696c6c69616e5834372673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Dan1928&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="160em" src="https://camo.githubusercontent.com/618867b938702313bc0319deac4fa96dab3c92a18fbe5a816ed801d39048fb06/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d57696c6c69616e583437266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1928&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;">
+</a>
 
 <h2 align="center" style="color: aqua">Técnologias que utilizo:</h2>
 
