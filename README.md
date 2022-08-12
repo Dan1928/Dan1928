@@ -31,7 +31,7 @@ conheci o Front-End e mi apaixonei pela programação.
   <img align="center" alt="git" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <!-- <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
 </div><br>
-  <!-- <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  <!-- <a href="https://github.com/Dan1928" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
