@@ -6,14 +6,7 @@
   </p>
     Estou sempre aberto a aprender coisas novas e colaborar com projetos!
   <p>
-    
-  </p>
-
-<div align="center">
-  <a href="https://github.com/Dan1928">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan1928&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1928&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
 
 <h2 align="center" style="color: aqua">Técnologias que utilizo:</h2>
 
